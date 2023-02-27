@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/nepal-edited.jpg": "137cb83bf67cbadec68b4d481c87e7c9",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "50746ad2e6570cb04cd973c75e1bcf26",
+"assets/NOTICES": "cb618e00b2d49dd7b52489d45f798c10",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -30,9 +30,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "1958df69c213c118b32cd7425e3e1422",
 "icons/Icon-maskable-192.png": "bba678b6a68e617f4ca55f3c5da6e83f",
 "icons/Icon-maskable-512.png": "9cbf91c2a86144821505a087ef144951",
-"index.html": "185f10992cfa83d5af3b5829f8994719",
-"/": "185f10992cfa83d5af3b5829f8994719",
-"main.dart.js": "d476f35196268dd50ea582195d514d41",
+"index.html": "0f15bc1712acbe9cd167b9fb0524e715",
+"/": "0f15bc1712acbe9cd167b9fb0524e715",
+"main.dart.js": "9b79598f79ae8683323fbc63f7b0cb63",
 "manifest.json": "e1c1a2606f134a2aceeeaff6f08167d5",
 "version.json": "8cd64b299d4d52898c2141ef91163003"
 };
