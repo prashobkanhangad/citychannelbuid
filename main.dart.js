@@ -47369,9 +47369,13 @@ A.aym.prototype={
 $0(){return A.oV(A.eG(this.a,0,null))},
 $S:0}
 A.xY.prototype={
-G(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="[DEFAULT]",a1="sortId",a2="kasaragodnews",a3="keralanews"
+G(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="seoNameJS",a1="[DEFAULT]",a2="sortId",a3="kasaragodnews",a4="keralanews"
 $.aS()
-A.dE(A.bw(a4,a,t.w).w.a.a)
+A.dE(A.bw(a5,a,t.w).w.a.a)
+s=$.IV()
+s.ny(a0,["author","Eng Mouaz M AlShahmeh"])
+s.ny(a0,["description","Meta SEO Web Example"])
+s.ny(a0,["keywords","Flutter, Dart, SEO, Meta, Web"])
 s=$.c()
 r=s.gl()
 s=s.a
@@ -47396,22 +47400,22 @@ l===$&&A.a()
 j=t.p
 n=A.a0(a,A.aQ(A.b([A.cD(A.X("CITY NEWS TIME ",a,a,a,a,A.a8(a,a,B.l,a,a,a,a,a,a,a,a,18*$.c().gN(),a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a),a,a)],j),B.v,B.k,B.i),B.f,B.m,a,a,a,35*(k/l.a),a,new A.W(10*(o/p.a),0,0,0),a,a,720*(m/n.a))
 m=$.a3
-i=(m==null?$.a3=$.aV():m).aR(0,a0)
+i=(m==null?$.a3=$.aV():m).aR(0,a1)
 p=$.by()
 A.az(i,p,!0)
 o=A.bs(new A.aT(i))
 m=t.C
-o=A.aM(A.b([n,A.bY(new A.axe(),A.bt(o,o.gaX().b5("citynewstime")).cH(a1,!0).bL(),m)],j),B.n,B.k,B.i)
+o=A.aM(A.b([n,A.bY(new A.axe(),A.bt(o,o.gaX().b5("citynewstime")).cH(a2,!0).bL(),m)],j),B.n,B.k,B.i)
 n=$.c()
 l=n.gl()
 n=n.a
 n===$&&A.a()
 n=A.r(a,a,20*(l/n.a))
 l=$.a3
-i=(l==null?$.a3=$.aV():l).aR(0,a0)
+i=(l==null?$.a3=$.aV():l).aR(0,a1)
 A.az(i,p,!0)
 l=A.bs(new A.aT(i))
-s=A.a0(a,A.aQ(A.b([o,n,A.bY(new A.axf(),A.bt(l,l.gaX().b5("shortnews")).cH(a1,!0).bL(),m)],j),B.n,B.k,B.i),B.f,B.l,a,a,a,a,a,new A.W(0,q,0,q),a,a,1150*(r/s.a))
+s=A.a0(a,A.aQ(A.b([o,n,A.bY(new A.axf(),A.bt(l,l.gaX().b5("shortnews")).cH(a2,!0).bL(),m)],j),B.n,B.k,B.i),B.f,B.l,a,a,a,a,a,new A.W(0,q,0,q),a,a,1150*(r/s.a))
 r=$.c()
 q=r.gl()
 r=r.a
@@ -47421,27 +47425,27 @@ n=l.gl()
 l=l.a
 l===$&&A.a()
 o=$.a3
-i=(o==null?$.a3=$.aV():o).aR(0,a0)
+i=(o==null?$.a3=$.aV():o).aR(0,a1)
 A.az(i,p,!0)
 o=A.bs(new A.aT(i))
-o=A.bY(new A.axg(b),A.bt(o,o.gaX().b5(a2)).cH(a1,!0).bL(),m)
+o=A.bY(new A.axg(b),A.bt(o,o.gaX().b5(a3)).cH(a2,!0).bL(),m)
 k=$.a3
-i=(k==null?$.a3=$.aV():k).aR(0,a0)
+i=(k==null?$.a3=$.aV():k).aR(0,a1)
 A.az(i,p,!0)
 k=A.bs(new A.aT(i))
-k=A.bY(new A.axh(b),A.bt(k,k.gaX().b5(a3)).cH(a1,!0).bL(),m)
+k=A.bY(new A.axh(b),A.bt(k,k.gaX().b5(a4)).cH(a2,!0).bL(),m)
 h=$.a3
-i=(h==null?$.a3=$.aV():h).aR(0,a0)
+i=(h==null?$.a3=$.aV():h).aR(0,a1)
 A.az(i,p,!0)
 h=A.bs(new A.aT(i))
-r=A.a0(a,A.aQ(A.b([o,k,A.bY(new A.axi(b),A.bt(h,h.gaX().b5(a2)).cH(a1,!0).bL(),m)],j),B.n,B.d_,B.i),B.f,B.l,a,a,a,610*(n/l.a),a,a,a,a,1150*(q/r.a))
+r=A.a0(a,A.aQ(A.b([o,k,A.bY(new A.axi(b),A.bt(h,h.gaX().b5(a3)).cH(a2,!0).bL(),m)],j),B.n,B.d_,B.i),B.f,B.l,a,a,a,610*(n/l.a),a,a,a,a,1150*(q/r.a))
 q=$.c()
 l=q.gl()
 q=q.a
 q===$&&A.a()
 q=A.r(a,5*(l/q.a),a)
 l=$.a3
-i=(l==null?$.a3=$.aV():l).aR(0,a0)
+i=(l==null?$.a3=$.aV():l).aR(0,a1)
 A.az(i,p,!0)
 o=A.bs(new A.aT(i))
 o=A.bY(new A.axj(),A.bt(o,o.gaX().b5("advtcard")).dv(0,"Advt1").bL(),t.__)
@@ -47461,10 +47465,10 @@ k=k.a
 k===$&&A.a()
 k=A.r(a,10*(h/k.a),a)
 h=$.a3
-i=(h==null?$.a3=$.aV():h).aR(0,a0)
+i=(h==null?$.a3=$.aV():h).aR(0,a1)
 A.az(i,p,!0)
 h=A.bs(new A.aT(i))
-h=A.bY(new A.axk(b),A.bt(h,h.gaX().b5(a3)).cH(a1,!0).bL(),m)
+h=A.bY(new A.axk(b),A.bt(h,h.gaX().b5(a4)).cH(a2,!0).bL(),m)
 g=$.c()
 f=g.gl()
 g=g.a
@@ -47476,20 +47480,20 @@ f=f.a
 f===$&&A.a()
 f=A.r(A.X("National",a,a,a,a,A.a8(a,a,a,a,a,a,a,a,a,a,a,22*$.c().gN(),a,a,B.r,a,a,!0,a,a,a,a,a,a,a,a),a,a),a,1150*(e/f.a))
 e=$.a3
-i=(e==null?$.a3=$.aV():e).aR(0,a0)
+i=(e==null?$.a3=$.aV():e).aR(0,a1)
 A.az(i,p,!0)
 e=A.bs(new A.aT(i))
-e=A.bY(new A.axl(b),A.bt(e,e.gaX().b5("nationalnews")).cH(a1,!0).bL(),m)
+e=A.bY(new A.axl(b),A.bt(e,e.gaX().b5("nationalnews")).cH(a2,!0).bL(),m)
 d=$.c()
 c=d.gl()
 d=d.a
 d===$&&A.a()
 d=A.aQ(A.b([A.r(A.X("Videos",a,a,a,a,A.a8(a,a,a,a,a,a,a,a,a,a,a,22*$.c().gN(),a,a,B.r,a,a,!0,a,a,a,a,a,a,a,a),a,a),a,1150*(c/d.a))],j),B.n,B.k,B.i)
 c=$.a3
-i=(c==null?$.a3=$.aV():c).aR(0,a0)
+i=(c==null?$.a3=$.aV():c).aR(0,a1)
 A.az(i,p,!0)
 p=A.bs(new A.aT(i))
-m=A.bY(new A.axm(),A.bt(p,p.gaX().b5("videolist")).cH(a1,!0).bL(),m)
+m=A.bY(new A.axm(),A.bt(p,p.gaX().b5("videolist")).cH(a2,!0).bL(),m)
 p=$.c()
 c=p.gl()
 p=p.a
@@ -49291,14 +49295,10 @@ A.v4.prototype={
 Jy(a){var s=a.length
 if(s<=4)return""
 else return B.c.a_(a,0,s-4)},
-G(a){var s,r,q,p,o,n=null,m="seoNameJS"
+G(a){var s,r,q,p,o,n=null
 $.aC()
 s=$.ec().x1.h(0,"uid")
 r=$.ec().x1.h(0,"collection")
-q=$.IV()
-q.ny(m,["author","Eng Mouaz M AlShahmeh"])
-q.ny(m,["description","Meta SEO Web Example"])
-q.ny(m,["keywords","Flutter, Dart, SEO, Meta, Web"])
 q=$.a3
 p=(q==null?$.a3=$.aV():q).aR(0,"[DEFAULT]")
 A.az(p,$.by(),!0)
