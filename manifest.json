@@ -1,11 +1,11 @@
 {
-    "name": "city_chennel_web",
-    "short_name": "city_chennel_web",
+    "name": "City Channel",
+    "short_name": "City Channel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "City Channel Kasaragod | City TV Live | www.cityksd.com | News Portal Kerala",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
